@@ -1,2 +1,2 @@
 some text
-somew new text
+some new text
